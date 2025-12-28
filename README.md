@@ -1,7 +1,7 @@
 # Underwater Dimmable LED
 
 <p align="center">
-  <img src="Photos/Fish_Bowl_Zoom.jpg" alt="Underwater Dimmable LED in water" width="600">
+  <img src="Photos/Fish_Bowl_Zoom.jpg" alt="Underwater Dimmable LED in water" width="500">
 </p>
 
 <table>
@@ -20,7 +20,7 @@
 
     </td>
     <td width="55%" align="center">
-      <img src="Photos/Light.jpg" alt="Underwater Dimmable LED module" width="60%">
+      <img src="Photos/Light.jpg" alt="Underwater Dimmable LED module" width="100%">
     </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@ The **Underwater Dimmable LED** is a compact, high-power lighting module designe
 LED brightness is controlled using a standard servo/PWM signal, allowing easy integration with RC systems and microcontrollers.
 
 All electronics are fully **encapsulated in epoxy**, providing electrical insulation and protection against water ingress.  
-When no control signal is present, the LED operates at approximately **1% output power**.
+When no control signal is present, the LED operates at approximately 1% output power.
 
 ---
 
@@ -41,7 +41,7 @@ When no control signal is present, the LED operates at approximately **1% output
 
 ### Housing
 
-The housing is machined from **6061 aluminum**, providing good mechanical strength and thermal conductivity.
+The housing is machined from 6061 aluminum, providing good mechanical strength and thermal conductivity.
 
 <table>
   <tr>
@@ -60,7 +60,7 @@ The housing is machined from **6061 aluminum**, providing good mechanical streng
 
 ### Electronics
 
-The PCB and all electronic components are **fully potted in epoxy** and connected using **shielded high-performance PUR cable**, ensuring mechanical robustness and resistance to harsh environments.
+The PCB and all electronic components are **fully potted in epoxy** and connected using shielded high-performance PUR cable, ensuring mechanical robustness and resistance to harsh environments.
 
 <table>
   <tr>
@@ -79,8 +79,8 @@ The PCB and all electronic components are **fully potted in epoxy** and connecte
 
 ### Mounting & Dimensions
 
-The module is mounted using an **M4 threaded hole**.  
-Mechanical dimensions and mounting details are shown below.
+The module is mounted using an M4 threaded hole.  
+Mechanical dimensions are shown below.
 
 <p align="center">
   <img src="Photos/Gross_dimensions.jpg" alt="Gross dimensions" width="600">
@@ -94,20 +94,20 @@ Mechanical dimensions and mounting details are shown below.
 Firmware for the STM32 microcontroller.
 
 ### Hardware
-PCB design files and related documentation.
+PCB design related documentation.
 
 ### Photos
-Project images, machining process, and testing.
+Project images, the joys of machining process and testing.
 
 <table>
   <tr>
     <td align="center">
       <img src="Photos/Making_chips.jpeg" alt="Manufacturing process" width="340"><br>
-      <sub>Machining chips</sub>
+      <sub>Making chips</sub>
     </td>
     <td align="center">
       <img src="Photos/First_fail.jpg" alt="First prototype failure" width="450"><br>
-      <sub>First prototype</sub>
+      <sub>First machinign fail</sub>
     </td>
   </tr>
 </table>
