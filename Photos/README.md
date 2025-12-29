@@ -1,6 +1,6 @@
 # Project Photo Gallery
 
-This folder contains photos documenting the development of the **Underwater Dimmable LED** project from early machining and prototypes to final assembly and underwater testing.
+This folder contains photos documenting the development of the Underwater Dimmable LED project from early machining and prototypes to final assembly and underwater testing.
 
 ---
 
