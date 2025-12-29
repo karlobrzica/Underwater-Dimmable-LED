@@ -12,9 +12,8 @@
 
 - **Colour Temperature:** 5000 K  
 - **Input Voltage:** 12–40 V DC  
-- **LED Current:** 750 mA (constant current)  
 - **Max. Power Consumption:** 9 W  
-- **Luminosity:** ~1700 lm (typical)  
+- **Luminosity:** ~1700 lm 
 - **Brightness Control:** Servo PWM signal  
 - **Mounting:** M4 threaded mounting hole  
 
