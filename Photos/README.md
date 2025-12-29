@@ -63,11 +63,9 @@ This folder contains photos documenting the development of the **Underwater Dimm
   <tr>
     <td align="center">
       <img src="Prototype0_Testing.jpg" width="240"><br>
-      Prototype front detail
     </td>
     <td align="center">
       <img src="Prototype0_Backside.jpg" width="220"><br>
-      Prototype front variant
     </td>
   </tr>
 </table>
