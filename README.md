@@ -1,7 +1,7 @@
 # Underwater Dimmable LED
 
 <p align="center">
-  <img src="Photos/Final2_cut.jpg" alt="Underwater Dimmable LED" width="500">
+  <img src="Photos/FInal.gif" alt="Underwater Dimmable LED" width="500">
 </p>
 
 <table>
