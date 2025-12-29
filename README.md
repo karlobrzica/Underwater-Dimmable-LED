@@ -1,7 +1,7 @@
 # Underwater Dimmable LED
 
 <p align="center">
-  <img src="Photos/Fish_Bowl_Zoom.jpg" alt="Underwater Dimmable LED in water" width="500">
+  <img src="Photos/Final.gif" alt="Underwater Dimmable LED" width="500">
 </p>
 
 <table>
@@ -20,7 +20,7 @@
 
     </td>
     <td width="55%" align="center">
-      <img src="Photos/Light.jpg" alt="Underwater Dimmable LED module" width="100%">
+      <img src="Photos/Fish_Bowl_Zoom.jpg" alt="Underwater Dimmable LED module" width="400">
     </td>
   </tr>
 </table>
@@ -34,6 +34,11 @@ LED brightness is controlled using a standard servo/PWM signal, allowing easy in
 
 All electronics are fully **encapsulated in epoxy**, providing electrical insulation and protection against water ingress.  
 When no control signal is present, the LED operates at approximately 1% output power.
+
+<p align="center">
+  <img src="Photos/PCB.jpg" alt="Gross dimensions" width="400">
+</p>
+
 
 ---
 
@@ -107,7 +112,7 @@ Project images, the joys of machining process and testing.
     </td>
     <td align="center">
       <img src="Photos/First_fail.jpg" alt="First prototype failure" width="450"><br>
-      <sub>First machinign fail</sub>
+      <sub>Eating chips</sub>
     </td>
   </tr>
 </table>
